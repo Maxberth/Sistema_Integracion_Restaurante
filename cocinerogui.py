@@ -7,7 +7,7 @@ conexion = pymysql.connect(
     host="localhost",
     user="root",
     password="contra2023",
-    database="MIMANUELA"
+    database="Base_Datos"
 )
 
 class VentanaPrincipalCocinero:
